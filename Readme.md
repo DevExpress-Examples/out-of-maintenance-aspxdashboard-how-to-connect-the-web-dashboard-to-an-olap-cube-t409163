@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/WebDesignerOlapDataSource/Default.aspx) (VB: [Default.aspx](./VB/WebDesignerOlapDataSource/Default.aspx))
+* [Default.aspx.cs](./CS/WebDesignerOlapDataSource/Default.aspx.cs) (VB: [Default.aspx](./VB/WebDesignerOlapDataSource/Default.aspx))
+<!-- default file list end -->
 # ASPxDashboard - How to connect the Web Dashboard to an OLAP cube
 
 
